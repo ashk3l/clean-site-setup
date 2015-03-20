@@ -33,3 +33,9 @@ Girder integrates beautifully with SASS and is super easy to use.
 [http://comfypixel.com/Girder/]
 
 [http://comfypixel.com/Girder/guide.html]
+
+##A basic Grunt file has also been setup for you!
+
+Thank you to:
+
+[http://bodyflex.github.io/gruntfile-gen/#]
