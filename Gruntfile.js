@@ -70,6 +70,17 @@ module.exports = function(grunt) {
 				}
 			} 
 		},
+        
+        browserSync: {
+                bsFiles: {
+                    src : 'css/dist/*.css'
+                },
+                options: {
+                    server: {
+                        baseDir: "./"
+                    }
+                }
+            }
 
 	});
 
@@ -81,10 +92,11 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-contrib-watch');
 	grunt.loadNpmTasks('grunt-autoprefixer');
 	grunt.loadNpmTasks('grunt-devtools');
+    grunt.loadNpmTasks('grunt-browser-sync');
 
 	// 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
 	grunt.registerTask('default', ['concat', 'uglify', 'sass', 'imagemin']);
 
-	grunt.registerTask('dev', ['watch']);
+	grunt.registerTask('dev', ['browserSync', 'watch']);
 
 };

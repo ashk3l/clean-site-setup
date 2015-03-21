@@ -39,3 +39,11 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Project folders #
+###################
+_FILES/
+.sass-cache/
+node_modules/
+.gitignore
+.git

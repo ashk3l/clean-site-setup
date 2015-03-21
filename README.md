@@ -36,6 +36,4 @@ Girder integrates beautifully with SASS and is super easy to use.
 
 ##A basic Grunt file has also been setup for you!
 
-Thank you to:
-
-[http://bodyflex.github.io/gruntfile-gen/#]
+A powerful yet simplistic Grunt file setup includes a watch task for SCSS compiling, image optimization, browser-sync and more.
