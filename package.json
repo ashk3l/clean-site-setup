@@ -1,11 +1,14 @@
 {
-	"name": "rootcellar",
-	"title": "rootcellar",
-	"version": "0.0.1",
-	"devDependencies": {
-		"grunt": "0.4.5",
-		"grunt-contrib-uglify": "*",
-		"grunt-contrib-sass": "*",
-		"grunt-autoprefixer": "*"
-	}
+  "name": "example-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-autoprefixer" : "*",
+    "grunt-devtools" : "*"
+  }
 }
