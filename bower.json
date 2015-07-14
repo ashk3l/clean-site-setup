@@ -1,0 +1,24 @@
+{
+  "name": "clean-site-setup",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ashk3l/clean-site-setup",
+  "authors": [
+    "Ashley Keller <ashleyhkeller@gmail.com>"
+  ],
+  "description": "Basic site setup",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.3.0",
+    "bootstrap": "~3.3.5"
+  }
+}

@@ -1,7 +1,6 @@
-// Reset CSS and setup grid system
-@import "vendor/normalize";
-@import "vendor/girder";
-    
+// Load base dependencies
+@import "bower_components/fontawesome/scss"   
+
 // Load modules
 @import "modules/colours";
 @import "modules/common";
@@ -10,7 +9,7 @@
 @import "partials/typography";
 
 // Load vendor plugins
-@import "vendor/font-awesome-4.2.0/scss/font-awesome"
+//@import "path-to-vendor-plugins"
 
 
 /* Base styles
