@@ -1,6 +1,6 @@
-#Welcome! This is here to help you understand this project setup.
+#Welcome! This is here to help you understand the clean site project setup.
 
-The goal of this project is to have a clean site setup that can easily be used in new projects. It uses several existing projects to support it. See below for details and attributions.
+The goal of this project is to have a clean site setup that can easily be used to start a new projects. It uses several existing projects to support it. See below for details and attributions.
 
 ##Getting started
 
@@ -40,6 +40,6 @@ Font Awesome gives you scalable vector icons that can instantly be customized â€
 
 [http://fortawesome.github.io/Font-Awesome/]
 
-##A basic Grunt file has also been setup for you!
+##A basic Grunt file has also been setup for you.
 
 A powerful yet simplistic Grunt file setup includes a watch task for SCSS compiling, image optimization, browser-sync and more.
