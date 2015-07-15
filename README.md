@@ -10,29 +10,17 @@ It's the industry standard for writing manageable CSS code. Are you new to SASS?
 
 [http://thesassway.com/beginner/how-to-structure-a-sass-project]
 
+##Bootstrap is installed and ready to go
+
+Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+
+[http://getbootstrap.com/]
+
 ##FontAwesome is used for icons.
 
 Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
 [http://fortawesome.github.io/Font-Awesome/]
-
-##HTML5Shiv is used for legacy browser support of HTML5 elements
-
-The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
-
-[https://github.com/aFarkas/html5shiv]
-
-##Normalize.css is used for HTML5 support on legacy browsers
-
-[http://necolas.github.io/normalize.css/]
-
-##Girder is used to create a simple, responsive grid system
-
-Girder integrates beautifully with SASS and is super easy to use.
-
-[http://comfypixel.com/Girder/]
-
-[http://comfypixel.com/Girder/guide.html]
 
 ##A basic Grunt file has also been setup for you!
 
