@@ -2,6 +2,9 @@
 
 The goal of this project is to have a clean site setup that can easily be used to start a new projects. It uses several existing projects to support it. See below for details and attributions.
 
+View the demo site that will generate after your initial install: [http://ashk3l.github.io/clean-site-setup/]
+
+
 ##Getting started
 
 Clone this repo into your working directory. Then run the following commands:
