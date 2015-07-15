@@ -1,6 +1,24 @@
-#Welcome! This README is here to help you understand this project setup.
+#Welcome! This is here to help you understand this project setup.
 
 The goal of this project is to have a clean site setup that can easily be used in new projects. It uses several existing projects to support it. See below for details and attributions.
+
+##Getting started
+
+Clone this repo into your working directory. Then run the following commands:
+
+    npm install
+
+    bower install
+    
+Once your dependencies are installed then you can use the following grunt tasks:
+
+    grunt 
+    
+The "grunt" task will run a build by uglifying your JS files and compiling your CSS.
+
+    grunt dev
+    
+The "grunt dev" task will launch a browser-sync server to watch your files and automatically reload whenever you make changes to HTML, JS or SCSS files.
 
 ##This project uses SASS for it's CSS architecture. 
 

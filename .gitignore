@@ -47,3 +47,4 @@ _FILES/
 node_modules/
 .gitignore
 .git
+bower_components/
